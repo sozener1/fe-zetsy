@@ -18,3 +18,14 @@ body {
 }
 
 /* Write all remaining styles here */
+h1 {
+	color:rgba(127, 140, 140, 0.684);
+}
+
+h2{
+	color:rgba(127, 140, 140, 0.684);
+}
+
+#footer {
+	float: right;
+}
